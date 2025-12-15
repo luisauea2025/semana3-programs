@@ -1,0 +1,15 @@
+/workspaces/semana3-programs/bin/Debug/net10.0/semana3-programs
+/workspaces/semana3-programs/bin/Debug/net10.0/semana3-programs.deps.json
+/workspaces/semana3-programs/bin/Debug/net10.0/semana3-programs.runtimeconfig.json
+/workspaces/semana3-programs/bin/Debug/net10.0/semana3-programs.dll
+/workspaces/semana3-programs/bin/Debug/net10.0/semana3-programs.pdb
+/workspaces/semana3-programs/obj/Debug/net10.0/semana3-programs.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/semana3-programs/obj/Debug/net10.0/semana3-programs.AssemblyInfoInputs.cache
+/workspaces/semana3-programs/obj/Debug/net10.0/semana3-programs.AssemblyInfo.cs
+/workspaces/semana3-programs/obj/Debug/net10.0/semana3-programs.csproj.CoreCompileInputs.cache
+/workspaces/semana3-programs/obj/Debug/net10.0/semana3-programs.sourcelink.json
+/workspaces/semana3-programs/obj/Debug/net10.0/semana3-programs.dll
+/workspaces/semana3-programs/obj/Debug/net10.0/refint/semana3-programs.dll
+/workspaces/semana3-programs/obj/Debug/net10.0/semana3-programs.pdb
+/workspaces/semana3-programs/obj/Debug/net10.0/semana3-programs.genruntimeconfig.cache
+/workspaces/semana3-programs/obj/Debug/net10.0/ref/semana3-programs.dll

@@ -1,0 +1,52 @@
+using System;
+
+class Estudiante
+{
+    public int Id;
+    public string Nombres;
+    public string Apellidos;
+    public string Direccion;
+    public string[] Telefonos;
+
+    // Constructor: inicializa las propiedades para evitar nulls
+    public Estudiante()
+    {
+        Nombres = string.Empty;
+        Apellidos = string.Empty;
+        Direccion = string.Empty;
+        Telefonos = new string[0];
+    }
+
+    public void MostrarDatos()
+    {
+        Console.WriteLine("ID: " + Id);
+        Console.WriteLine("Nombres: " + Nombres);
+        Console.WriteLine("Apellidos: " + Apellidos);
+        Console.WriteLine("Dirección: " + Direccion);
+        Console.WriteLine("Teléfonos:");
+        foreach (string tel in Telefonos)
+        {
+            Console.WriteLine("- " + tel);
+        }
+    }
+}
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        Estudiante est = new Estudiante();
+
+        est.Id = 1;
+        est.Nombres = "Tanya";
+        est.Apellidos = "Mamallacta";
+        est.Direccion = "Archidona";
+
+        est.Telefonos = new string[3];
+        est.Telefonos[0] = "0993783998";
+        est.Telefonos[1] = "0988765432";
+        est.Telefonos[2] = "0965432187";
+
+        est.MostrarDatos();
+    }
+}
